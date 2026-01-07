@@ -12,9 +12,9 @@ test_pruchod_ruzne_udaje.py:
 
     Správné údaje vedoucí k možnosti zaplacení objednávky
 
-    Údaje nejsou vyplněny. Stránka by měla zahlásit dvě chybové hlášky u povinných údajů (jméno, telefonní číslo)
+    Údaje nejsou vyplněny. Stránka by měla zahlásit dvě chybové hlášky u povinných údajů (jméno, telefonní číslo).
 
-    Špatně vyplněné povinné telefoní číslo a nepovinný email. Měla by se zobrazit jedna chybová hláška (telefonní číslo)
+    Špatně vyplněné povinné telefoní číslo a nepovinný email. Měla by se zobrazit jedna chybová hláška (telefonní číslo).
 
     Do testu je případně možné doplnit další kombinace správnych / nepsrávných údajů.
 
