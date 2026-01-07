@@ -21,4 +21,3 @@ test_pruchod_ruzne_udaje.py:
 test_uprava_kosiku_cena.py:
     Test kontroluje přidání a následnou úpravu položek v košíku.
     Následně zkrontulje zda stránka správně spočítala upravenou cenu položek.
-    
